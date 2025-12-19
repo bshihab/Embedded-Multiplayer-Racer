@@ -1,0 +1,17 @@
+# Build Artifacts
+*.o
+*.obj
+*.d
+*.map
+*.out
+*.hex
+*.bin
+*.axf
+
+# IDE Settings
+.vscode/
+.settings/
+Debug/
+Release/
+*.uvoptx
+*.uvguix
