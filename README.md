@@ -1,11 +1,14 @@
 # Embedded Multiplayer Racer (Cortex-M0+)
 
-> Voted "Best Game" in ECE319K Class Competition (Fall 2025)
 
 A multiplayer racing game engine written in C for the TI MSPM0G3507 microcontroller. This project contains real-time physics, sprite rendering, and UART communication between two microcontrollers.
 
 [![Watch the Demo](https://img.youtube.com/vi/CwQ1BzuiUfw/0.jpg)](https://www.youtube.com/watch?v=CwQ1BzuiUfw)
+
 *Click the image above to watch the gameplay demo.*
+
+> Voted "Best Game" in ECE319K Class Competition (Fall 2025)
+
 
 ## Features
 
