@@ -7,8 +7,6 @@ A multiplayer racing game engine written in C for the TI MSPM0G3507 microcontrol
 
 *Click the image above to watch the gameplay demo.*
 
-> Voted "Best Game" in ECE319K Class Competition (Fall 2025)
-
 
 ## Features
 
